@@ -1,6 +1,6 @@
 {
   "name": "cohex",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "CSS color hex and rgb codes.",
   "main": "index.js",
   "scripts": {},
@@ -8,7 +8,20 @@
     "type": "git",
     "url": "git+https://github.com/squikjs/cohex.git"
   },
-  "keywords": [],
+  "keywords": [
+    "colors",
+    "color",
+    "colour",
+    "colours",
+    "rgb",
+    "hex",
+    "chalk",
+    "front-end",
+    "css",
+    "rgba",
+    "hex",
+    "highlight"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
