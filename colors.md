@@ -1,0 +1,300 @@
+# Colors:
+
+- <h4 class="aliceblue">aliceblue</h4>
+- <h4 class="antiquewhite">antiquewhite</h4>
+- <h4 class="aqua">aqua</h4>
+- <h4 class="aquamarine">aquamarine</h4>
+- <h4 class="azure">azure</h4>
+- <h4 class="beige">beige</h4>
+- <h4 class="bisque">bisque</h4>
+- <h4 class="black">black</h4>
+- <h4 class="blanchedalmond">blanchedalmond</h4>
+- <h4 class="blue">blue</h4>
+- <h4 class="blueviolet">blueviolet</h4>
+- <h4 class="brown">brown</h4>
+- <h4 class="burlywood">burlywood</h4>
+- <h4 class="cadetblue">cadetblue</h4>
+- <h4 class="chartreuse">chartreuse</h4>
+- <h4 class="chocolate">chocolate</h4>
+- <h4 class="coral">coral</h4>
+- <h4 class="cornflowerblue">cornflowerblue</h4>
+- <h4 class="cornsilk">cornsilk</h4>
+- <h4 class="crimson">crimson</h4>
+- <h4 class="cyan">cyan</h4>
+- <h4 class="darkblue">darkblue</h4>
+- <h4 class="darkcyan">darkcyan</h4>
+- <h4 class="darkgoldenrod">darkgoldenrod</h4>
+- <h4 class="darkgray">darkgray</h4>
+- <h4 class="darkgreen">darkgreen</h4>
+- <h4 class="darkgrey">darkgrey</h4>
+- <h4 class="darkkhaki">darkkhaki</h4>
+- <h4 class="darkmagenta">darkmagenta</h4>
+- <h4 class="darkolivegreen">darkolivegreen</h4>
+- <h4 class="darkorange">darkorange</h4>
+- <h4 class="darkorchid">darkorchid</h4>
+- <h4 class="darkred">darkred</h4>
+- <h4 class="darksalmon">darksalmon</h4>
+- <h4 class="darkseagreen">darkseagreen</h4>
+- <h4 class="darkslateblue">darkslateblue</h4>
+- <h4 class="darkslategray">darkslategray</h4>
+- <h4 class="darkslategrey">darkslategrey</h4>
+- <h4 class="darkturquoise">darkturquoise</h4>
+- <h4 class="darkviolet">darkviolet</h4>
+- <h4 class="deeppink">deeppink</h4>
+- <h4 class="deepskyblue">deepskyblue</h4>
+- <h4 class="dimgray">dimgray</h4>
+- <h4 class="dimgrey">dimgrey</h4>
+- <h4 class="dodgerblue">dodgerblue</h4>
+- <h4 class="firebrick">firebrick</h4>
+- <h4 class="floralwhite">floralwhite</h4>
+- <h4 class="forestgreen">forestgreen</h4>
+- <h4 class="fuchsia">fuchsia</h4>
+- <h4 class="gainsboro">gainsboro</h4>
+- <h4 class="ghostwhite">ghostwhite</h4>
+- <h4 class="goldenrod">goldenrod</h4>
+- <h4 class="gold">gold</h4>
+- <h4 class="gray">gray</h4>
+- <h4 class="green">green</h4>
+- <h4 class="greenyellow">greenyellow</h4>
+- <h4 class="grey">grey</h4>
+- <h4 class="honeydew">honeydew</h4>
+- <h4 class="hotpink">hotpink</h4>
+- <h4 class="indianred">indianred</h4>
+- <h4 class="indigo">indigo</h4>
+- <h4 class="ivory">ivory</h4>
+- <h4 class="khaki">khaki</h4>
+- <h4 class="lavenderblush">lavenderblush</h4>
+- <h4 class="lavender">lavender</h4>
+- <h4 class="lawngreen">lawngreen</h4>
+- <h4 class="lemonchiffon">lemonchiffon</h4>
+- <h4 class="lightblue">lightblue</h4>
+- <h4 class="lightcoral">lightcoral</h4>
+- <h4 class="lightcyan">lightcyan</h4>
+- <h4 class="lightgoldenrodyellow">lightgoldenrodyellow</h4>
+- <h4 class="lightgray">lightgray</h4>
+- <h4 class="lightgreen">lightgreen</h4>
+- <h4 class="lightgrey">lightgrey</h4>
+- <h4 class="lightpink">lightpink</h4>
+- <h4 class="lightsalmon">lightsalmon</h4>
+- <h4 class="lightseagreen">lightseagreen</h4>
+- <h4 class="lightskyblue">lightskyblue</h4>
+- <h4 class="lightslategray">lightslategray</h4>
+- <h4 class="lightslategrey">lightslategrey</h4>
+- <h4 class="lightsteelblue">lightsteelblue</h4>
+- <h4 class="lightyellow">lightyellow</h4>
+- <h4 class="lime">lime</h4>
+- <h4 class="limegreen">limegreen</h4>
+- <h4 class="linen">linen</h4>
+- <h4 class="magenta">magenta</h4>
+- <h4 class="maroon">maroon</h4>
+- <h4 class="mediumaquamarine">mediumaquamarine</h4>
+- <h4 class="mediumblue">mediumblue</h4>
+- <h4 class="mediumorchid">mediumorchid</h4>
+- <h4 class="mediumpurple">mediumpurple</h4>
+- <h4 class="mediumseagreen">mediumseagreen</h4>
+- <h4 class="mediumslateblue">mediumslateblue</h4>
+- <h4 class="mediumspringgreen">mediumspringgreen</h4>
+- <h4 class="mediumturquoise">mediumturquoise</h4>
+- <h4 class="mediumvioletred">mediumvioletred</h4>
+- <h4 class="midnightblue">midnightblue</h4>
+- <h4 class="mintcream">mintcream</h4>
+- <h4 class="mistyrose">mistyrose</h4>
+- <h4 class="moccasin">moccasin</h4>
+- <h4 class="navajowhite">navajowhite</h4>
+- <h4 class="navy">navy</h4>
+- <h4 class="oldlace">oldlace</h4>
+- <h4 class="olive">olive</h4>
+- <h4 class="olivedrab">olivedrab</h4>
+- <h4 class="orange">orange</h4>
+- <h4 class="orangered">orangered</h4>
+- <h4 class="orchid">orchid</h4>
+- <h4 class="palegoldenrod">palegoldenrod</h4>
+- <h4 class="palegreen">palegreen</h4>
+- <h4 class="paleturquoise">paleturquoise</h4>
+- <h4 class="palevioletred">palevioletred</h4>
+- <h4 class="papayawhip">papayawhip</h4>
+- <h4 class="peachpuff">peachpuff</h4>
+- <h4 class="peru">peru</h4>
+- <h4 class="pink">pink</h4>
+- <h4 class="plum">plum</h4>
+- <h4 class="powderblue">powderblue</h4>
+- <h4 class="purple">purple</h4>
+- <h4 class="rebeccapurple">rebeccapurple</h4>
+- <h4 class="red">red</h4>
+- <h4 class="rosybrown">rosybrown</h4>
+- <h4 class="royalblue">royalblue</h4>
+- <h4 class="saddlebrown">saddlebrown</h4>
+- <h4 class="salmon">salmon</h4>
+- <h4 class="sandybrown">sandybrown</h4>
+- <h4 class="seagreen">seagreen</h4>
+- <h4 class="seashell">seashell</h4>
+- <h4 class="sienna">sienna</h4>
+- <h4 class="silver">silver</h4>
+- <h4 class="skyblue">skyblue</h4>
+- <h4 class="slateblue">slateblue</h4>
+- <h4 class="slategray">slategray</h4>
+- <h4 class="slategrey">slategrey</h4>
+- <h4 class="snow">snow</h4>
+- <h4 class="springgreen">springgreen</h4>
+- <h4 class="steelblue">steelblue</h4>
+- <h4 class="tan">tan</h4>
+- <h4 class="teal">teal</h4>
+- <h4 class="thistle">thistle</h4>
+- <h4 class="tomato">tomato</h4>
+- <h4 class="turquoise">turquoise</h4>
+- <h4 class="violet">violet</h4>
+- <h4 class="wheat">wheat</h4>
+- <h4 class="white">white</h4>
+- <h4 class="whitesmoke">whitesmoke</h4>
+- <h4 class="yellow">yellow</h4>
+- <h4 class="yellowgreen">yellowgreen</h4>
+  <style>
+      .aliceblue {color: #f0f8ff}
+      .antiquewhite {color: #faebd7}
+      .aqua {color: #00ffff}
+      .aquamarine {color: #7fffd4}
+      .azure {color: #f0ffff}
+      .beige {color: #f5f5dc}
+      .bisque {color: #ffe4c4}
+      .black {color: #000000}
+      .blanchedalmond {color: #ffebcd}
+      .blue {color: #0000ff}
+      .blueviolet {color: #8a2be2}
+      .brown {color: #a52a2a}
+      .burlywood {color: #deb887}
+      .cadetblue {color: #5f9ea0}
+      .chartreuse {color: #7fff00}
+      .chocolate {color: #d2691e}
+      .coral {color: #ff7f50}
+      .cornflowerblue {color: #6495ed}
+      .cornsilk {color: #fff8dc}
+      .crimson {color: #dc143c}
+      .cyan {color: #00ffff}
+      .darkblue {color: #00008b}
+      .darkcyan {color: #008b8b}
+      .darkgoldenrod {color: #b8860b}
+      .darkgray {color: #a9a9a9}
+      .darkgreen {color: #006400}
+      .darkgrey {color: #a9a9a9}
+      .darkkhaki {color: #bdb76b}
+      .darkmagenta {color: #8b008b}
+      .darkolivegreen {color: #556b2f}
+      .darkorange {color: #ff8c00}
+      .darkorchid {color: #9932cc}
+      .darkred {color: #8b0000}
+      .darksalmon {color: #e9967a}
+      .darkseagreen {color: #8fbc8f}
+      .darkslateblue {color: #483d8b}
+      .darkslategray {color: #2f4f4f}
+      .darkslategrey {color: #2f4f4f}
+      .darkturquoise {color: #00ced1}
+      .darkviolet {color: #9400d3}
+      .deeppink {color: #ff1493}
+      .deepskyblue {color: #00bfff}
+      .dimgray {color: #696969}
+      .dimgrey {color: #696969}
+      .dodgerblue {color: #1e90ff}
+      .firebrick {color: #b22222}
+      .floralwhite {color: #fffaf0}
+      .forestgreen {color: #228b22}
+      .fuchsia {color: #ff00ff}
+      .gainsboro {color: #dcdcdc}
+      .ghostwhite {color: #f8f8ff}
+      .goldenrod {color: #daa520}
+      .gold {color: #ffd700}
+      .gray {color: #808080}
+      .green {color: #008000}
+      .greenyellow {color: #adff2f}
+      .grey {color: #808080}
+      .honeydew {color: #f0fff0}
+      .hotpink {color: #ff69b4}
+      .indianred {color: #cd5c5c}
+      .indigo {color: #4b0082}
+      .ivory {color: #fffff0}
+      .khaki {color: #f0e68c}
+      .lavenderblush {color: #fff0f5}
+      .lavender {color: #e6e6fa}
+      .lawngreen {color: #7cfc00}
+      .lemonchiffon {color: #fffacd}
+      .lightblue {color: #add8e6}
+      .lightcoral {color: #f08080}
+      .lightcyan {color: #e0ffff}
+      .lightgoldenrodyellow {color: #fafad2}
+      .lightgray {color: #d3d3d3}
+      .lightgreen {color: #90ee90}
+      .lightgrey {color: #d3d3d3}
+      .lightpink {color: #ffb6c1}
+      .lightsalmon {color: #ffa07a}
+      .lightseagreen {color: #20b2aa}
+      .lightskyblue {color: #87cefa}
+      .lightslategray {color: #778899}
+      .lightslategrey {color: #778899}
+      .lightsteelblue {color: #b0c4de}
+      .lightyellow {color: #ffffe0}
+      .lime {color: #00ff00}
+      .limegreen {color: #32cd32}
+      .linen {color: #faf0e6}
+      .magenta {color: #ff00ff}
+      .maroon {color: #800000}
+      .mediumaquamarine {color: #66cdaa}
+      .mediumblue {color: #0000cd}
+      .mediumorchid {color: #ba55d3}
+      .mediumpurple {color: #9370db}
+      .mediumseagreen {color: #3cb371}
+      .mediumslateblue {color: #7b68ee}
+      .mediumspringgreen {color: #00fa9a}
+      .mediumturquoise {color: #48d1cc}
+      .mediumvioletred {color: #c71585}
+      .midnightblue {color: #191970}
+      .mintcream {color: #f5fffa}
+      .mistyrose {color: #ffe4e1}
+      .moccasin {color: #ffe4b5}
+      .navajowhite {color: #ffdead}
+      .navy {color: #000080}
+      .oldlace {color: #fdf5e6}
+      .olive {color: #808000}
+      .olivedrab {color: #6b8e23}
+      .orange {color: #ffa500}
+      .orangered {color: #ff4500}
+      .orchid {color: #da70d6}
+      .palegoldenrod {color: #eee8aa}
+      .palegreen {color: #98fb98}
+      .paleturquoise {color: #afeeee}
+      .palevioletred {color: #db7093}
+      .papayawhip {color: #ffefd5}
+      .peachpuff {color: #ffdab9}
+      .peru {color: #cd853f}
+      .pink {color: #ffc0cb}
+      .plum {color: #dda0dd}
+      .powderblue {color: #b0e0e6}
+      .purple {color: #800080}
+      .rebeccapurple {color: #663399}
+      .red {color: #ff0000}
+      .rosybrown {color: #bc8f8f}
+      .royalblue {color: #4169e1}
+      .saddlebrown {color: #8b4513}
+      .salmon {color: #fa8072}
+      .sandybrown {color: #f4a460}
+      .seagreen {color: #2e8b57}
+      .seashell {color: #fff5ee}
+      .sienna {color: #a0522d}
+      .silver {color: #c0c0c0}
+      .skyblue {color: #87ceeb}
+      .slateblue {color: #6a5acd}
+      .slategray {color: #708090}
+      .slategrey {color: #708090}
+      .snow {color: #fffafa}
+      .springgreen {color: #00ff7f}
+      .steelblue {color: #4682b4}
+      .tan {color: #d2b48c}
+      .teal {color: #008080}
+      .thistle {color: #d8bfd8}
+      .tomato {color: #ff6347}
+      .turquoise {color: #40e0d0}
+      .violet {color: #ee82ee}
+      .wheat {color: #f5deb3}
+      .white {color: #ffffff}
+      .whitesmoke {color: #f5f5f5}
+      .yellow {color: #ffff00}
+      .yellowgreen {color: #9acd32}
+  </style>

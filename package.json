@@ -1,0 +1,18 @@
+{
+  "name": "cohex",
+  "version": "1.0.0",
+  "description": "CSS color hex codes.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/squikjs/cohex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/squikjs/cohex/issues"
+  },
+  "homepage": "https://github.com/squikjs/cohex#readme"
+}
