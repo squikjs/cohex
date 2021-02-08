@@ -14,6 +14,7 @@ npm install cohex
 const colors = require("cohex");
 console.log(colors.aqua); // #00ffff
 console.log(colors.darkseagreen); // #8fbc8f
+console.log(colors.random); // random hex code
 ```
 
 ## Where are all the colors available?
