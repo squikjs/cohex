@@ -1,4 +1,4 @@
-module.exports = {
+let colors = {
   aliceblue: "#f0f8ff",
   antiquewhite: "#faebd7",
   aqua: "#00ffff",
@@ -148,3 +148,9 @@ module.exports = {
   yellow: "#ffff00",
   yellowgreen: "#9acd32",
 };
+
+module.exports = colors;
+module.exports.random =
+  colors[
+    Object.keys(colors)[Math.floor(Math.random() * Object.keys(colors).length)]
+  ];
