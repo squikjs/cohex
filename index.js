@@ -301,10 +301,10 @@ let rgb = {
 };
 
 module.exports = colors;
-module.exports.random =
+module.exports.random = () =>
   colors[
     Object.keys(colors)[Math.floor(Math.random() * Object.keys(colors).length)]
   ];
 module.exports.rgb = rgb;
-module.exports.rgb.random =
+module.exports.rgb.random = () =>
   rgb[Object.keys(rgb)[Math.floor(Math.random() * Object.keys(rgb).length)]];

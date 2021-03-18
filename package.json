@@ -1,6 +1,6 @@
 {
   "name": "cohex",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "CSS color hex and rgb codes.",
   "main": "index.js",
   "scripts": {},
